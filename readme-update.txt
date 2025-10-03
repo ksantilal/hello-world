@@ -1,1 +1,1 @@
-Hello DevSecOps from GitHub Lab!
+Hello DevSecOps Team from GitHub Lab1!
