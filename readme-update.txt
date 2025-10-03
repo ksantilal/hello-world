@@ -1,1 +1,1 @@
-Hello DevSecOps Team from GitHub Lab1!
+First Addition to master branch!
